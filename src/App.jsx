@@ -139,7 +139,7 @@ const BentoGrid = () => {
                             <a href="https://github.com/akhil3046" target="_blank" className="p-4 rounded-xl bg-zinc-800 hover:bg-zinc-700 transition-colors">
                                 <Github size={32} />
                             </a>
-                            <a href="https://www.linkedin.com/in/akhil-sai-botu-61554322b/" target="_blank" className="p-4 rounded-xl bg-blue-600/20 text-blue-400 hover:bg-blue-600/30 transition-colors">
+                            <a href="https://www.linkedin.com/in/akhil-sai-botu/" target="_blank" className="p-4 rounded-xl bg-blue-600/20 text-blue-400 hover:bg-blue-600/30 transition-colors">
                                 <Linkedin size={32} />
                             </a>
                         </div>
@@ -509,3 +509,4 @@ const App = () => {
 };
 
 export default App;
+
